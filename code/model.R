@@ -4,7 +4,7 @@
 #       Burrows et al. (submitted to Nature Communications)
 
 # NOTE: this code is a guide for transparency and 
-#       reproducability and is not able to be run
+#       reproducibility and is not able to be run
 
 #key packages used in this model
 library("dlnm")
