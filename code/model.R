@@ -6,7 +6,7 @@
 # NOTE: this code is a guide for transparency and 
 #       reproducability and is not able to be run
 
-#packages used in this model
+#key packages used in this model
 library("dlnm")
 library("dplyr")
 library("lubridate")
